@@ -14,14 +14,14 @@
 
 2. **Télécharger le projet** :  
    - Clonez le dépôt ou téléchargez-le au format ZIP.  
-   - Extrayez le projet et copiez le dossier dans le répertoire `htdocs` de XAMPP.  
+   - Extrayez le projet (folder "ibrahim_web" et copiez le dossier dans le répertoire `htdocs` de XAMPP.
 
 3. **Configurer la base de données** :  
    - Lancez Apache et MySQL dans XAMPP.  
    - Accédez à phpMyAdmin via [http://localhost/phpmyadmin](http://localhost/phpmyadmin).  
    - Créez une nouvelle base de données.  
    - Importez le fichier `ibrahim_web.sql` (fourni dans le projet).  
-   -Le nom de base de donner doit etre: "ibrahim_web"
+   - Le nom de base de donner doit etre: "ibrahim_web"
 
 5. **Mettre à jour la configuration** :  ( si tu veut changer le nom de Base de donne)
    - Ouvrez le fichier `config/app_local.php`.  
