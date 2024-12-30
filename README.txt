@@ -42,5 +42,10 @@
 - Assurez-vous que la version de PHP dans XAMPP correspond exactement à **8.2.12**.  
 - En cas de problème, vérifiez les journaux dans `logs/error.log`ou bien contacter Moi. 
 
+## Les comptes pour que faire Login: *********************************************
+- Login en tanque admin : admin@admin.com       password: 1511987
+- Login en tanque manager : manager@manager.com       password: 1511987
+- Login en tanque Employer : user@user.com       password: 1511987
+**********************************************************************************
 
 Merci Pour votre Temps!!!
